@@ -1,6 +1,8 @@
 DeepSeek
 梁文锋
 
+黄金
+A股
 
 稚晖君
 智元
@@ -18,6 +20,7 @@ xiaomi
 
 马斯克
 特斯拉
+FSD
 
 微软
 Microsoft
@@ -41,11 +44,6 @@ claude
 Anthropic
 
 苹果
-库克
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
